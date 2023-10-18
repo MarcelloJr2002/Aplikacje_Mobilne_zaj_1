@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_worldCup">Mistrzostwa Świata w Katarze odbyły się w 2022 roku</string>
+    <string name="q_lewy">Robert Lewandowski był zawodnikiem Borussi Dortmund</string>
+    <string name="q_match">Mecz piłki nożnej trwa 70 minut</string>
+    <string name="q_manu">Manuel Neuer jest światowej klasy napastnikiem</string>
+    <string name="q_messi">Leo Messi jest mistrzem świata z 2022 roku</string>
+    <string name="q_score">Wynik:%1$d poprawnych na %2$d odpowiedzi</string>
+    <string name="correctAnswer">Poprawna odpowiedź</string>
+    <string name="incorrectAnswer">Niepoprawna odpowiedź</string>
+</resources>
